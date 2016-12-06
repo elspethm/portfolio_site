@@ -139,8 +139,8 @@ body {
 /*  background: #ff7e5f;*/
 /*background: blue;*/
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #137996, #7CBFD2 40%, #FFE393);
-  background: linear-gradient(to left, #137996, #7CBFD2 40%, #FFE393);
+  background: -webkit-linear-gradient(to left, #137996, #7CBFD2 40%, #BFB4E5);
+  background: linear-gradient(to left, #137996, #7CBFD2 40%, #BFB4E5);
 }
 
 .social {
