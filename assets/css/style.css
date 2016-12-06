@@ -29,6 +29,16 @@ Support: https://kllr.ticksy.com
 /*--------------------------------------------------------------
 01. Typography
 --------------------------------------------------------------*/
+.em_logo{
+  height: 100px;
+  margin-right: 200px;
+}
+
+.em_logo img{
+  float: left;
+  height: 100px;
+  padding-right: 10px;
+}
 
 body {
   font-family: 'Muli', sans-serif;
