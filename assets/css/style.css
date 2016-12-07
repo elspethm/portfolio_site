@@ -29,15 +29,9 @@ Support: https://kllr.ticksy.com
 /*--------------------------------------------------------------
 01. Typography
 --------------------------------------------------------------*/
-/*.em_logo{
-  height: 100px;
-  margin-right: 200px;
-}*/
 
 .em_logo img{
-  /*float: left;*/
   height: 100px;
-  /*padding-right: 10px;*/
 }
 
 body {
@@ -376,7 +370,8 @@ body.page-single-portfolio .introduction {
 }
 
 body.page-about .introduction {
-  transform-origin: 50% 30%;
+  /*transform-origin: 50% 30%;*/
+  transform-origin: 50% 58%;
 }
 
 body.page-about-2 .introduction {
@@ -388,7 +383,7 @@ body.page-about-3 .introduction {
 }
 
 body.page-blog-1 .introduction {
-  transform-origin: 50% 40%;
+  transform-origin: 50% 66.5%;
 }
 
 body.page-blog-2 .introduction {
@@ -400,7 +395,7 @@ body.page-blog-3 .introduction {
 }
 
 body.page-contact-1 .introduction {
-  transform-origin: 50% 65%;
+  transform-origin: 50% 89%;
 }
 
 body.page-contact-2 .introduction {
