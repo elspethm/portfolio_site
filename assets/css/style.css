@@ -1246,8 +1246,10 @@ footer nav a:hover {
 
 @media only screen and (max-width: 767px) {
   body {
-    background: #ff7e5f;
+    /*background: #ff7e5f;*/
     /*background: blue;*/
+    background: -webkit-linear-gradient(to left, #137996, #7CBFD2 40%, #BFB4E5);
+    background: linear-gradient(to left, #137996, #7CBFD2 40%, #BFB4E5);
   }
 
   .introduction {
