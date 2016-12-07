@@ -30,6 +30,39 @@ Support: https://kllr.ticksy.com
 01. Typography
 --------------------------------------------------------------*/
 
+body.trombone .introduction {
+  transform-origin: 50% 95%;
+}
+
+body.heart .introduction {
+  transform-origin: 50% 125%;
+}
+
+body.tidal .introduction {
+  transform-origin: 50% 100%;
+}
+
+body.optima .introduction {
+  transform-origin: 50% 73%;
+}
+
+body.baskerville .introduction {
+  transform-origin: 50% 72%;
+}
+
+body.eaves .introduction {
+  transform-origin: 50% 72%;
+}
+
+body.mia .introduction {
+  transform-origin: 50% 77%;
+}
+
+
+body.brain .introduction {
+  transform-origin: 50% 113%;
+}
+
 .em_logo img{
   height: 100px;
 }
